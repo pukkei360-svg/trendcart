@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "hot air styling brush hair dryer brush",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e535d13c83b7.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "1800px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1fcbfc89fc7f.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

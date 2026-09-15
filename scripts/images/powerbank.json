@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "slim black power bank portable charger for smartphone",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a8d51e21038b.jpg",
+      "caption": "",
+      "source": "TechRadar",
+      "original_width": "2000px",
+      "original_height": "1125px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a68e1f4c7a80.jpg",
+      "caption": "",
+      "source": "INIU",
+      "original_width": "1693px",
+      "original_height": "834px"
+    }
+  ]
+}

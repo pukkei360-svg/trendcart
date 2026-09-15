@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "portable electric milk frother for coffee",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a6643e2a43bd.jpg",
+      "caption": "",
+      "source": "Karinear\u00ae Appliances",
+      "original_width": "1500px",
+      "original_height": "1496px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c3f8fbf043f7.jpg",
+      "caption": "",
+      "source": "Alibaba.com",
+      "original_width": "900px",
+      "original_height": "900px"
+    }
+  ]
+}

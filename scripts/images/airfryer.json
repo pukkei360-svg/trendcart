@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "modern digital air fryer kitchen appliance",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/916092d3d618.jpg",
+      "caption": "",
+      "source": "The Warehouse",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ee398298bd55.jpg",
+      "caption": "",
+      "source": "Good Housekeeping",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "mechanical keyboard with rainbow backlit keys",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7a6946e5b11e.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/96a64821577f.jpg",
+      "caption": "",
+      "source": "Made-in-China.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

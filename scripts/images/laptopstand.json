@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "aluminum adjustable laptop stand for desk",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b5d66dfac222.jpg",
+      "caption": "",
+      "source": "Lillipad",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6df96c2a3de0.png",
+      "caption": "",
+      "source": "BlueBolt Chargers",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    }
+  ]
+}

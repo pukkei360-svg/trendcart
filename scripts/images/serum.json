@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "vitamin C facial serum dropper bottle skincare",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3bd4fbc96cef.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/85097f617700.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    }
+  ]
+}

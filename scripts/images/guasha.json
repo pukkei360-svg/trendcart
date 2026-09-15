@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "jade roller and gua sha facial massage tools",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1ec50019b2e2.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "997px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/91ea875d63a7.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

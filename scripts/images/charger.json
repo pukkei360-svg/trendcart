@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "compact USB-C fast wall charger product photo",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/199fbdf8f846.jpg",
+      "caption": "",
+      "source": "Belkin",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b0fa05d1a73e.png",
+      "caption": "",
+      "source": "iTechStore",
+      "original_width": "1261px",
+      "original_height": "1395px"
+    }
+  ]
+}

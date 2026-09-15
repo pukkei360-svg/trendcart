@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "sunset projection lamp warm ambient light",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/31ecbb5264c0.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0a2ca6b61153.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "2400px",
+      "original_height": "1792px"
+    }
+  ]
+}

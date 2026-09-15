@@ -1,0 +1,116 @@
+// TrendCart — Prisma schema
+// Product discovery + affiliate shopping platform (Amazon Associates)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Category {
+  id          Int       @id @default(autoincrement())
+  name        String    @unique
+  slug        String    @unique
+  icon        String
+  description String
+  sortOrder   Int       @default(0)
+  products    Product[]
+  createdAt   DateTime  @default(now())
+
+  @@index([sortOrder])
+}
+
+model Product {
+  id               Int      @id @default(autoincrement())
+  name             String
+  slug             String   @unique
+  shortDescription String
+  description      String
+  categoryId       Int
+  category         Category @relation(fields: [categoryId], references: [id])
+
+  image      String
+  amazonUrl  String
+
+  price     Float
+  oldPrice  Float?
+  discount  Int      @default(0) // percent off, derived from oldPrice/price
+  rating    Float
+  reviewCount Int
+
+  // TrendCart proprietary scoring (public signals only)
+  trendingScore   Int     @default(0) // 0-100
+  popularityScore Int     @default(0) // 0-100
+  trendingReason  String  @default("")
+  badge           String  @default("trending") // exploding | rising | trending | popular | hidden-gem
+  viralLabel      String? // Viral | Rising | Everyone's Watching | Fast Growing
+
+  // Editorial content (JSON-encoded string arrays)
+  whyWeLikeItJson String @default("[]")
+  prosJson        String @default("[]")
+  consJson        String @default("[]")
+  verdict         String @default("")
+  whoItsFor       String @default("")
+  whoShouldSkip   String @default("")
+
+  // Deal flags
+  isDeal    Boolean @default(false)
+  dealLabel String? // Huge Discount | Great Deal | Limited Deal | Price Drop
+
+  isFeatured Boolean @default(false)
+  status     String  @default("active") // active | draft
+
+  // Engagement metrics (admin KPI)
+  clicks Int @default(0)
+  views  Int @default(0)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  clickEvents ClickEvent[]
+
+  @@index([categoryId])
+  @@index([trendingScore])
+  @@index([popularityScore])
+  @@index([isDeal])
+  @@index([status])
+}
+
+model Article {
+  id          Int      @id @default(autoincrement())
+  title       String
+  slug        String   @unique
+  excerpt     String
+  coverImage  String
+  contentJson String   @default("[]") // sections: heading | paragraph | products | tip
+  published   Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model ClickEvent {
+  id        Int      @id @default(autoincrement())
+  productId Int
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  source    String   @default("unknown") // product-page | trending-card | deal-card ...
+  createdAt DateTime @default(now())
+
+  @@index([productId])
+  @@index([createdAt])
+}
+
+model Setting {
+  id    Int     @id @default(autoincrement())
+  key   String  @unique
+  value String
+}
+
+model AdminUser {
+  id           Int      @id @default(autoincrement())
+  username     String   @unique
+  passwordHash String
+  createdAt    DateTime @default(now())
+}

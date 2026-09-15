@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "professional makeup brush set with case",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/86aadcad2a0c.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "994px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/801822b27b53.png",
+      "caption": "",
+      "source": "Alibaba.com",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    }
+  ]
+}

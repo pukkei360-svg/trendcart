@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "wireless gaming headset with microphone RGB",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a9a86a95b877.jpg",
+      "caption": "",
+      "source": "Alibaba.com",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b1266f3f5d10.png",
+      "caption": "",
+      "source": "Gaming Keyboard",
+      "original_width": "768px",
+      "original_height": "1024px"
+    }
+  ]
+}

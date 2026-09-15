@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "black smartwatch fitness tracker product photo",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e82e9fd6bd67.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/136862640aff.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "931px",
+      "original_height": "1000px"
+    }
+  ]
+}

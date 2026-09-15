@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "adjustable dumbbell hand weights home gym",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9c55f4634b86.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "998px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9c7452a12f10.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "992px",
+      "original_height": "1000px"
+    }
+  ]
+}

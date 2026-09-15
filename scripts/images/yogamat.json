@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "rolled up yoga mat for exercise",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2da335797b9d.png",
+      "caption": "",
+      "source": "Olaben",
+      "original_width": "1350px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d58604494918.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "minimalist white sneakers product photo",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c15b0ad271fd.jpg",
+      "caption": "",
+      "source": "Iceberg",
+      "original_width": "1000px",
+      "original_height": "1250px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9cfb32d2ac0a.jpg",
+      "caption": "",
+      "source": "DiVERGE Sneakers",
+      "original_width": "1200px",
+      "original_height": "1680px"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "robot vacuum cleaner on hardwood floor",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/35a61be3194e.jpg",
+      "caption": "",
+      "source": "T3",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d8b752d74137.jpg",
+      "caption": "",
+      "source": "Tom's Guide",
+      "original_width": "1500px",
+      "original_height": "1125px"
+    }
+  ]
+}

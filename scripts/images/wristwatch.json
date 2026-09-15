@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "minimalist analog wristwatch product photo",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/97aa02fbcf6e.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1001px",
+      "original_height": "1001px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b31963a27cea.jpg",
+      "caption": "",
+      "source": "Teddy Baldassarre",
+      "original_width": "1350px",
+      "original_height": "800px"
+    }
+  ]
+}

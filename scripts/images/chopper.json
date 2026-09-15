@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "vegetable chopper kitchen gadget with container",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a68b6ef2f272.jpg",
+      "caption": "",
+      "source": "BOLO",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/27a748103eee.jpg",
+      "caption": "",
+      "source": "Alibaba.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

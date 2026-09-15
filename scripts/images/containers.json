@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "query": "glass meal prep storage containers with lids",
+  "count": 2,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cb3379899ba2.png",
+      "caption": "",
+      "source": "aisoon store",
+      "original_width": "1536px",
+      "original_height": "1536px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/59431f90a16d.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "889px",
+      "original_height": "1000px"
+    }
+  ]
+}
