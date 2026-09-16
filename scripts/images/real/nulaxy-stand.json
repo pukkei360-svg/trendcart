@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Nulaxy adjustable aluminum laptop stand product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c80f89ad0088.jpg",
+      "caption": "",
+      "source": "Brandclub",
+      "original_width": "1500px",
+      "original_height": "1489px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/795b29e35c72.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/241ea6749a65.jpg",
+      "caption": "",
+      "source": "Temu",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

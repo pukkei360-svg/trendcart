@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Apple AirPods Pro 2 white wireless earbuds with charging case product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/723d4f37654a.jpg",
+      "caption": "",
+      "source": "Good Housekeeping",
+      "original_width": "980px",
+      "original_height": "980px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/977ad759725a.jpg",
+      "caption": "",
+      "source": "Apple",
+      "original_width": "1260px",
+      "original_height": "680px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9752ab867c6f.jpg",
+      "caption": "",
+      "source": "iDownloadBlog",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    }
+  ]
+}

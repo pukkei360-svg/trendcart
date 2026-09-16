@@ -1,0 +1,51 @@
+{
+ "key": "jbl-flip-6",
+ "query": "JBL Flip 6 portable bluetooth speaker",
+ "asin": "B09GK544PP",
+ "url": "https://www.amazon.com/dp/B09GK544PP",
+ "price": 89.99,
+ "listPrice": null,
+ "title": "JBL Flip 6 - Portable Waterproof Speaker - Teal",
+ "brand": "JBL",
+ "rating": 4.7,
+ "reviews": 12773,
+ "candidates": [
+  {
+   "asin": "B09GK544PP",
+   "title": "Flip 6 - Portable Waterproof Speaker - Teal",
+   "rating": 4.7,
+   "reviews": 24526
+  },
+  {
+   "asin": "B0B2HV127S",
+   "title": "Flip 6 - Waterproof Portable Bluetooth Speaker, Powerful Sound and deep bass, IPX7 Waterproof, 12 Hours of Playtime with Megen Hardshell Case - Gray",
+   "rating": 4.9,
+   "reviews": 18
+  },
+  {
+   "asin": "B085L33PPB",
+   "title": "Flip 5 Portable Waterproof Wireless Bluetooth Speaker - Black Camo",
+   "rating": 4.8,
+   "reviews": 85544
+  },
+  {
+   "asin": "B0FJK231C6",
+   "title": "Flip 7 Portable Bluetooth Speaker, IP68 Waterproof, Dustproof, Drop-Proof, PushLock System, AI Sound Boost, 16H Battery, Megen Hardshel Protection Case (Black)",
+   "rating": 4.6,
+   "reviews": 130
+  },
+  {
+   "asin": "B0DN35M7S9",
+   "title": "Charge 6 Portable Bluetooth Speaker, Waterproof, Drop-Proof - Blue",
+   "rating": 4.6,
+   "reviews": 6365
+  },
+  {
+   "asin": "B0FJK4XGJ3",
+   "title": "Flip 7 Portable Bluetooth Speaker, IP68 Waterproof, Dustproof, Drop-Proof, PushLock System, AI Sound Boost, 16H Battery, Megen Hardshel Protection Case (Blue)",
+   "rating": 4.6,
+   "reviews": 130
+  }
+ ],
+ "currency": "USD"
+}

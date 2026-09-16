@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "CeraVe Moisturizing Cream white tub product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8819d91d778c.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/87024e191241.jpg",
+      "caption": "",
+      "source": "Tira",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/44f9bce51905.jpeg",
+      "caption": "",
+      "source": "Sam's Club",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    }
+  ]
+}

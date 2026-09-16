@@ -1,0 +1,52 @@
+{
+ "key": "keurig-kmini",
+ "query": "Keurig K-Mini single serve coffee maker black",
+ "asin": "B07GV2S1GS",
+ "url": "https://www.amazon.com/dp/B07GV2S1GS",
+ "title": "Keurig K-Mini Single Serve K-Cup Pod Coffee Maker, 6 to 12oz Brew size, with Cord Storage, Perfect for Small Spaces, Black",
+ "brand": "Keurig",
+ "price": 71.0,
+ "listPrice": 99.99,
+ "rating": 4.2,
+ "reviews": 2096,
+ "candidates": [
+  {
+   "asin": "B07GV2S1GS",
+   "title": "K-Mini Single Serve K-Cup Pod Coffee Maker, 6 to 12oz Brew size, with Cord Storage, Perfect for Small Spaces, Black",
+   "rating": 4.2,
+   "reviews": 109133
+  },
+  {
+   "asin": "B0FMTSRKYL",
+   "title": "K-Mini Mate Single Serve K-Cup Pod Coffee Maker, Brews Up to 12 oz Cup, Compact Portable Coffee Machine for Small Spaces, Great for Dorms &amp; Offices, Black",
+   "rating": 4.3,
+   "reviews": 4291
+  },
+  {
+   "asin": "B0BV9HKMNT",
+   "title": "K-Compact Single-Serve K-Cup Pod Coffee Maker, with 3 Brew Sizes, Smart Start Feature, 36oz Removable Reservoir, Black",
+   "rating": 4.4,
+   "reviews": 11714
+  },
+  {
+   "asin": "B07DR89BR6",
+   "title": "K-Mini Plus Single Serve K-Cup Pod Coffee Maker, with 6 to 12oz Brew Size, Stores up to 9 K-Cup Pods, Travel Mug Friendly, Matte Black",
+   "rating": 4.4,
+   "reviews": 39325
+  },
+  {
+   "asin": "B0FMTQ8DL8",
+   "title": "K-Mini Mate Single Serve K-Cup Pod Coffee Maker, Brews Up to 12 oz Cup, Compact Portable Coffee Machine for Small Spaces, Great for Dorms &amp; Offices, Red Rocks",
+   "rating": 4.3,
+   "reviews": 4291
+  },
+  {
+   "asin": "B0FMSTSYL7",
+   "title": "K-Mini Mate Single Serve K-Cup Pod Coffee Maker, Brews Up to 12 oz Cup, Compact Portable Coffee Machine for Small Spaces, Great for Dorms &amp; Offices, Glamping Green",
+   "rating": 4.3,
+   "reviews": 4291
+  }
+ ],
+ "currency": "USD",
+ "savingsPct": 29
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Soundcore Anker Space One black over-ear headphones product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7bd925e888cc.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "835px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b86ef099470d.png",
+      "caption": "",
+      "source": "Mashable",
+      "original_width": "1248px",
+      "original_height": "702px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/147c5a6577cf.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

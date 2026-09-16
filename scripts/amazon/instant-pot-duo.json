@@ -1,0 +1,51 @@
+{
+ "key": "instant-pot-duo",
+ "query": "Instant Pot Duo 7-in-1 electric pressure cooker 6 quart",
+ "asin": "B00FLYWNYQ",
+ "url": "https://www.amazon.com/dp/B00FLYWNYQ",
+ "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel",
+ "brand": "Instant Pot",
+ "price": 109.99,
+ "listPrice": null,
+ "rating": 4.7,
+ "reviews": 14136,
+ "candidates": [
+  {
+   "asin": "B00FLYWNYQ",
+   "title": "Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel",
+   "rating": 4.7,
+   "reviews": 184496
+  },
+  {
+   "asin": "B01NBKTPTS",
+   "title": "Duo Plus 6 Qt 9-in-1 Electric Pressure Cooker, Stainless Steel",
+   "rating": 4.6,
+   "reviews": 49030
+  },
+  {
+   "asin": "B0B4PQDFCL",
+   "title": "Rio 6 Qt 7-in-1 Electric Pressure Cooker, Black",
+   "rating": 4.5,
+   "reviews": 6794
+  },
+  {
+   "asin": "B09MZTP44L",
+   "title": "6 Qt 9-in-1 Electric Pressure Cooker, WhisperQuiet",
+   "rating": 4.4,
+   "reviews": 5200
+  },
+  {
+   "asin": "B08WCLJ7JG",
+   "title": "Duo Crisp 6 Qt 11-in-1 Air Fryer + Pressure Cooker, Steel",
+   "rating": 4.6,
+   "reviews": 7474
+  },
+  {
+   "asin": "B0C35HNPW9",
+   "title": "Rio Wide 7.5 Qt 7-in-1 Electric Pressure Cooker, WhisperQuiet",
+   "rating": 4.5,
+   "reviews": 6794
+  }
+ ],
+ "currency": "USD"
+}

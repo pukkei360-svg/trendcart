@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Anker 737 power bank 24000mAh black portable charger product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0523a5c68280.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1510px",
+      "original_height": "868px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e2c484c365ff.jpg",
+      "caption": "",
+      "source": "Anker",
+      "original_width": "1600px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c8f2bd07cb88.jpg",
+      "caption": "",
+      "source": "Best Buy",
+      "original_width": "2000px",
+      "original_height": "1415px"
+    }
+  ]
+}

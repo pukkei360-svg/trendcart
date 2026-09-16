@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Sol de Janeiro Brazilian Bum Bum cream yellow jar product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/132045318539.jpg",
+      "caption": "",
+      "source": "John Lewis",
+      "original_width": "1875px",
+      "original_height": "2500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/018c9e2beeef.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8e0d30f42743.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "2400px",
+      "original_height": "2400px"
+    }
+  ]
+}

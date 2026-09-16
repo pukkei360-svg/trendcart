@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Apple Watch SE midnight aluminum black sport band smartwatch product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a26b86774ff0.jpg",
+      "caption": "",
+      "source": "Apple",
+      "original_width": "1144px",
+      "original_height": "1144px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a948aa3873c0.jpg",
+      "caption": "",
+      "source": "Hodinkee",
+      "original_width": "2880px",
+      "original_height": "1620px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c6c100d06208.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1910px",
+      "original_height": "1000px"
+    }
+  ]
+}

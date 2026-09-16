@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "black Crocs Classic Clogs product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b2924894e47d.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3be419eeebdc.jpg",
+      "caption": "",
+      "source": "Zappos",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c4081737b31e.png",
+      "caption": "",
+      "source": "www.prestigecarservices.ae",
+      "original_width": "2172px",
+      "original_height": "1984px"
+    }
+  ]
+}

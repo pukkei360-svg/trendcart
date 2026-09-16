@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Sony WH-1000XM5 black wireless noise canceling headphones product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/473a60b4539b.jpg",
+      "caption": "",
+      "source": "Amazon.ca",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ebb0bd64ec84.jpg",
+      "caption": "",
+      "source": "Mashable",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7e8acd5ccbe5.jpg",
+      "caption": "",
+      "source": "JB Hi-Fi",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    }
+  ]
+}

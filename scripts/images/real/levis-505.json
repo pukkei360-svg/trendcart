@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Levi's 505 regular fit blue jeans product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/76b6bc84babe.jpg",
+      "caption": "",
+      "source": "Boot Barn",
+      "original_width": "1200px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0837733f9a8c.png",
+      "caption": "",
+      "source": "DoorDash",
+      "original_width": "1194px",
+      "original_height": "672px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/481b4c06be1e.jpg",
+      "caption": "",
+      "source": "Eli's Western Wear",
+      "original_width": "960px",
+      "original_height": "1280px"
+    }
+  ]
+}

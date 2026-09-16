@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Redragon K552 mechanical gaming keyboard product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/80fd487cc27f.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d365a3bb8258.jpg",
+      "caption": "",
+      "source": "Brandclub",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5d42a76e7809.jpg",
+      "caption": "",
+      "source": "Alarabiya Computer",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    }
+  ]
+}

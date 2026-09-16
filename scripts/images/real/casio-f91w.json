@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Casio F91W classic black digital wrist watch product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dafcbeba943c.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1143px",
+      "original_height": "1089px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2d5b194ae74d.jpg",
+      "caption": "",
+      "source": "\u00fanico13",
+      "original_width": "1772px",
+      "original_height": "1772px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f77d256ec705.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "827px",
+      "original_height": "1102px"
+    }
+  ]
+}

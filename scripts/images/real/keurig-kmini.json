@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Keurig K-Mini black single serve coffee maker product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/31ad34f0982c.jpeg",
+      "caption": "",
+      "source": "DoorDash",
+      "original_width": "1194px",
+      "original_height": "672px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/299919589a3d.jpg",
+      "caption": "",
+      "source": "Ubuy Ethiopia",
+      "original_width": "1170px",
+      "original_height": "1534px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/810b979d8b2d.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

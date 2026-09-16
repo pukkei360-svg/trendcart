@@ -72,3 +72,6 @@ tests/
 # Agent context
 .agent-ctx/
 agent-ctx/
+# Scraped Amazon HTML (large, regenerable via scripts/amazon-fetch.py)
+scripts/amazon/html/
+scripts/*.png

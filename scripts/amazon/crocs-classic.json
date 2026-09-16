@@ -1,0 +1,52 @@
+{
+ "key": "crocs-classic",
+ "query": "Crocs Classic Clogs unisex black",
+ "asin": "B0014C0LSY",
+ "url": "https://www.amazon.com/dp/B0014C0LSY",
+ "title": "Crocs Unisex-Adult Classic Clog, Clogs for Women and Men",
+ "brand": "Crocs",
+ "price": 39.99,
+ "listPrice": 49.99,
+ "rating": 4.8,
+ "reviews": 143817,
+ "candidates": [
+  {
+   "asin": "B0014C0LSY",
+   "title": "Unisex-Adult Classic Clog, Clogs for Women and Men",
+   "rating": 4.8,
+   "reviews": 488925
+  },
+  {
+   "asin": "B08914YTS7",
+   "title": "Unisex-Adult Classic Marbled Tie-dye Clogs",
+   "rating": 4.7,
+   "reviews": 8765
+  },
+  {
+   "asin": "B0FPGHD8HW",
+   "title": "CrocbandGumClog",
+   "rating": 4.4,
+   "reviews": 422
+  },
+  {
+   "asin": "B0CT27XG47",
+   "title": "Unisex-Adult Crocband Clog",
+   "rating": 4.6,
+   "reviews": 64320
+  },
+  {
+   "asin": "B0BSG3DXPY",
+   "title": "Unisex-Adult Echo Clog",
+   "rating": 4.6,
+   "reviews": 11310
+  },
+  {
+   "asin": "B0DR3KXRJF",
+   "title": "Unisex-Adult Classic Crafted Canvas &amp; Suede Clogs",
+   "rating": 4.5,
+   "reviews": 1225
+  }
+ ],
+ "currency": "USD",
+ "savingsPct": 20
+}

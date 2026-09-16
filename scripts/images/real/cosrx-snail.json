@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "COSRX Advanced Snail 96 Mucin Power Essence bottle product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d490ea8085ee.jpg",
+      "caption": "",
+      "source": "COSRX Official",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e501ec3ff9a7.jpg",
+      "caption": "",
+      "source": "Whites",
+      "original_width": "3840px",
+      "original_height": "3840px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b932cc6a25da.png",
+      "caption": "",
+      "source": "Beauty Affairs Hong Kong",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

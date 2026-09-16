@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "FURminator dog grooming deshedding brush tool product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d424ff367e55.jpeg",
+      "caption": "",
+      "source": "Walmart",
+      "original_width": "3001px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e947dcdbc19d.jpg",
+      "caption": "",
+      "source": "Shopee Singapore",
+      "original_width": "960px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1aba1f767821.png",
+      "caption": "",
+      "source": "CanadaWide Liquidations",
+      "original_width": "1656px",
+      "original_height": "1656px"
+    }
+  ]
+}

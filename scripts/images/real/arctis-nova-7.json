@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "SteelSeries Arctis Nova 7 wireless gaming headset product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5d64c612fdb6.jpg",
+      "caption": "",
+      "source": "DataBlitz",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8afbf5097316.jpg",
+      "caption": "",
+      "source": "PC Gamer",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c8057e99f28e.jpg",
+      "caption": "",
+      "source": "TechRadar",
+      "original_width": "3840px",
+      "original_height": "2160px"
+    }
+  ]
+}

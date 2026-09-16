@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "colorful resistance loop exercise bands set product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a15e0b7dc7f4.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2560px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2694661b4dfc.jpg",
+      "caption": "",
+      "source": "Maji Sports",
+      "original_width": "1100px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/980bac162cff.jpg",
+      "caption": "",
+      "source": "Alibaba",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

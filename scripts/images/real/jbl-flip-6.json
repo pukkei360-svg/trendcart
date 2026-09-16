@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "JBL Flip 6 portable bluetooth speaker black product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9a311300873a.jpg",
+      "caption": "",
+      "source": "Amazon.ae",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2ab08f4f6c6f.jpg",
+      "caption": "",
+      "source": "PhoneArena",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/18ddbdff765c.jpg",
+      "caption": "",
+      "source": "Riaz Computer",
+      "original_width": "990px",
+      "original_height": "1200px"
+    }
+  ]
+}

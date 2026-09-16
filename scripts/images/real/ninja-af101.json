@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Ninja AF101 air fryer 4 quart black kitchen appliance product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c59c79c99cc4.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "987px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a0a2219d08d8.jpg",
+      "caption": "",
+      "source": "T3",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6a100cd58561.jpg",
+      "caption": "",
+      "source": "SharkNinja",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

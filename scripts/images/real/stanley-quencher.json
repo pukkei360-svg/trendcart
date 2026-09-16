@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Stanley Quencher H2.0 40 oz tumbler black product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/16a7a88b3509.jpg",
+      "caption": "",
+      "source": "SodaGift",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a515f30bd29e.jpg",
+      "caption": "",
+      "source": "Harrods",
+      "original_width": "960px",
+      "original_height": "1091px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/90e13a1d799e.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "900px",
+      "original_height": "1200px"
+    }
+  ]
+}

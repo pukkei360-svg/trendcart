@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Logitech G502 HERO black wired gaming mouse product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ff94dc444594.jpg",
+      "caption": "",
+      "source": "BrandsMart USA",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d6db235952f7.png",
+      "caption": "",
+      "source": "The Good Guys",
+      "original_width": "1389px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/275fe62d5fe2.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

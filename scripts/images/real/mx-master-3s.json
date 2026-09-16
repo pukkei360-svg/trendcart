@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Logitech MX Master 3S graphite wireless mouse product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/724259974762.png",
+      "caption": "",
+      "source": "Logitech",
+      "original_width": "2500px",
+      "original_height": "2160px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/62e93767b02e.jpg",
+      "caption": "",
+      "source": "XDA Developers",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/57b573de44fb.jpg",
+      "caption": "",
+      "source": "Tom's Guide",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Gaiam thick yoga mat product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bf0774cb731f.jpg",
+      "caption": "",
+      "source": "akrom",
+      "original_width": "2560px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ba7befc69cc6.jpg",
+      "caption": "",
+      "source": "GetACTV",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4a4d022819f6.jpg",
+      "caption": "",
+      "source": "www.taekwondoluxembourg.com",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

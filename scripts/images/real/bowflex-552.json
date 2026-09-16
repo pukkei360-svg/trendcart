@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Bowflex SelectTech 552 adjustable dumbbells product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b7b5c53b9a84.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "990px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0220bf8bc61d.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1910px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/651981b106db.jpeg",
+      "caption": "",
+      "source": "Live Science",
+      "original_width": "1600px",
+      "original_height": "900px"
+    }
+  ]
+}

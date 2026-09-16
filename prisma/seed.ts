@@ -1,6 +1,8 @@
 /**
- * TrendCart database seeder.
- * - Reads image URLs from scripts/images/*.json (fetched via image-search)
+ * TrendCart database seeder — REAL products edition.
+ * - Reads image URLs from scripts/images/real/<key>.json (fetched via image-search)
+ * - Products + Amazon URLs from seed-data/products-real.ts (built by scripts/build-real-seed.py
+ *   from live Amazon US data: prices, ratings, review counts)
  * - Clears and repopulates categories, products, articles, settings, admin
  * Run: bun prisma/seed.ts
  */
@@ -8,10 +10,11 @@ import { PrismaClient } from '@prisma/client'
 import { readFileSync, existsSync } from 'fs'
 import { join } from 'path'
 import { hashPassword } from '../src/lib/auth'
+import { productsReal, AMZ_URLS } from './seed-data/products-real'
 
 const db = new PrismaClient()
 
-const IMAGES_DIR = '/home/z/my-project/scripts/images'
+const IMAGES_DIR = '/home/z/my-project/scripts/images/real'
 
 function imageFor(key: string, index: number): string {
   const path = join(IMAGES_DIR, `${key}.json`)
@@ -25,26 +28,17 @@ function imageFor(key: string, index: number): string {
   return pick.original_url
 }
 
-function amazonSearchUrl(name: string): string {
-  // Search URLs keep the demo fully functional (no dead ASIN links)
-  const keywords = name
-    .toLowerCase()
-    .replace(/[^a-z0-9 ]+/g, ' ')
-    .replace(/\(([^)]*)\)/g, '')
-    .trim()
-    .split(/\s+/)
-    .slice(0, 8)
-    .join(' ')
-  return `https://www.amazon.com/s?k=${encodeURIComponent(keywords)}`
+function amazonUrlFor(key: string): string {
+  const url = AMZ_URLS[key]
+  if (!url) throw new Error(`Missing Amazon URL for product key "${key}"`)
+  return url
 }
 
 async function main() {
   console.log('Seeding TrendCart database...')
 
-  const { productsA } = await import('./seed-data/products-a')
-  const { productsB } = await import('./seed-data/products-b')
+  const products = productsReal
   const { categories, articles } = await import('./seed-data/content')
-  const products = [...productsA, ...productsB]
 
   // ---- Reset (respecting FK order) ----
   await db.clickEvent.deleteMany()
@@ -82,7 +76,7 @@ async function main() {
         description: p.description,
         categoryId,
         image: imageFor(p.imageKey, p.imageIndex),
-        amazonUrl: amazonSearchUrl(p.name),
+        amazonUrl: amazonUrlFor(p.imageKey),
         price: p.price,
         oldPrice: p.oldPrice,
         discount,
@@ -154,7 +148,7 @@ async function main() {
     ['tagline', 'Discover What\u2019s Trending. Find What\u2019s Worth Buying.'],
     [
       'amazon_affiliate_tag',
-      'trendcart-20',
+      'wigwise-20',
     ],
     [
       'affiliate_disclosure',

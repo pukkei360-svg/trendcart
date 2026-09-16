@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Champion grey pullover fleece hoodie product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cdc3849fc94b.jpg",
+      "caption": "",
+      "source": "Company Casuals",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b02f70dd982d.jpg",
+      "caption": "",
+      "source": "SanMar",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9577c71484d7.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1319px",
+      "original_height": "1100px"
+    }
+  ]
+}

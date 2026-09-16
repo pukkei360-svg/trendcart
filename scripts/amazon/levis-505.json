@@ -1,0 +1,52 @@
+{
+ "key": "levis-505",
+ "query": "Levi's Men's 505 Regular Fit jeans",
+ "asin": "B0018QOGAK",
+ "url": "https://www.amazon.com/dp/B0018QOGAK",
+ "price": 64.99,
+ "listPrice": 74.95,
+ "title": "Levi&#39;s Men&#39;s 505 Regular Fit Jeans",
+ "brand": "Levi's",
+ "rating": 4.5,
+ "reviews": 26883,
+ "candidates": [
+  {
+   "asin": "B0018QOGAK",
+   "title": "Men&#x27;s 505 Regular Fit Jeans",
+   "rating": 4.5,
+   "reviews": 33298
+  },
+  {
+   "asin": "B0018OMETC",
+   "title": "Men&#x27;s 505 Regular Fit Jeans",
+   "rating": 4.5,
+   "reviews": 29822
+  },
+  {
+   "asin": "B08BF7314N",
+   "title": "Men&#x27;s 505 Regular Fit Jeans",
+   "rating": 4.4,
+   "reviews": 4368
+  },
+  {
+   "asin": "B000HTIL14",
+   "title": "Men&#x27;s 505 Regular Fit Jeans",
+   "rating": 4.4,
+   "reviews": 5888
+  },
+  {
+   "asin": "B08BDZNSL8",
+   "title": "Men&#x27;s 505 Regular Fit Jeans",
+   "rating": 4.5,
+   "reviews": 687
+  },
+  {
+   "asin": "B0008EOG8A",
+   "title": "Men&#x27;s Regular Fit Straight Leg Jean",
+   "rating": 4.5,
+   "reviews": 37734
+  }
+ ],
+ "currency": "USD",
+ "savingsPct": 13
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "stainless steel cat water fountain automatic pet dispenser product photo",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7feb4c801d61.jpg",
+      "caption": "",
+      "source": "Alibaba",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6dac537a59a8.jpg",
+      "caption": "",
+      "source": "Cats.com",
+      "original_width": "1200px",
+      "original_height": "820px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0059c4566dc1.png",
+      "caption": "",
+      "source": "KittySpout",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    }
+  ]
+}
